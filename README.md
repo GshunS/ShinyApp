@@ -8,3 +8,6 @@ Description of this project: use the [Shiny app](https://shiny.posit.co/r/getsta
 - install relevant packages
 - open app.R in rstuidio
 - click the 'Run' button
+
+## What does it look like?
+![UI](https://github.com/GshunS/ShinyApp/assets/52339999/473b0266-ecfd-42a0-a280-dd1ef738af45)
